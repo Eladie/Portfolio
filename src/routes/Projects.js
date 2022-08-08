@@ -1,10 +1,12 @@
 import React from 'react'
+import Navbar from '../components/navBar/Navbar'
+import Footer from '../components/footer/Footer'
 
 const Project = () => {
   return (
     <div>
-      <h1>Hello
-      </h1>
+      <Navbar/>
+      <Footer/>
     </div>
   )
 }
