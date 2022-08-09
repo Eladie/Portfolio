@@ -24,7 +24,7 @@ function Footer() {
                 style={{ color: "#fff", 
                 marginRight: "2rem" }}
               />
-              <span type="tel" >+40799940333</span> 
+              +40799940333
             </h4>
           </div>
           <div className="email">
