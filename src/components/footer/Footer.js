@@ -17,14 +17,14 @@ function Footer() {
               <p>Bucharest</p>
             </div>
           </div>
-          <div className="phone">
+          <div type="tel" className="phone">
             <h4>
               <FaPhone
                 size={20}
                 style={{ color: "#fff", 
                 marginRight: "2rem" }}
               />
-              +40799940333
+              <span type="tel" >+40799940333</span> 
             </h4>
           </div>
           <div className="email">
