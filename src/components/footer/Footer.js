@@ -24,7 +24,7 @@ function Footer() {
                 style={{ color: "#fff", 
                 marginRight: "2rem" }}
               />
-              <a href="tel: +40799940333">+40799940333</a>
+              <a href="tel:+40799940333">+40799940333</a>
             </h4>
           </div>
           <div className="email">

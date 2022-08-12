@@ -12,12 +12,18 @@
     text-align: center;
     margin: auto;
     padding: 1rem;
-    max-width: 350px;
+    max-width: 390px;
 }
 
 .about .left p{
     margin: 1.2rem 0;
 }
+
+.about-btn{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 .about .right{
     max-width: 700px;
