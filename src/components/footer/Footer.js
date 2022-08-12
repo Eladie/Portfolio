@@ -13,7 +13,7 @@ function Footer() {
                 style={{ color: "#fff", 
                 marginRight: "2rem" }} />
             <div>
-              <p>Str. Sergent Apostol C-tin, Nr. 16</p>
+              <p>Str. Sergent Apostol C-tin Nr. 16</p>
               <p>Bucharest</p>
             </div>
           </div>
